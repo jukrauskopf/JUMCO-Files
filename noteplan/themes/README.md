@@ -5,12 +5,12 @@ A collection of custom-crafted themes for NotePlan to enhance focus and readabil
 ## 📸 Previews
 
 ### Aurora Night
-![Aurora Night Preview](../../assets/screenshots/aurora_night.png)
-*A deep, vibrant dark mode inspired by the northern lights. High contrast for focused evening sessions.*
+![Aurora Night Theme](noteplan/assets/screenshots/Aurora Night preview.png)
+*A deep, vibrant dark mode inspired by the northern lights. High contrast.*
 
 ### Daylight Pro
-![Daylight Pro Preview](../../assets/screenshots/daylight_pro.png)
-*A crisp, clean light mode for high-energy morning work. Easy on the eyes with a professional touch.*
+![Daylight Pro Preview](noteplan/assets/screenshots/Daylight Pro Review)
+*A crisp, clean light mode. Easy on the eyes with a professional touch.*
 
 ---
 
