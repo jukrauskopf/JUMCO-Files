@@ -1,0 +1,1049 @@
+{
+  "author": {
+    "name": "Julian Krauskopf",
+    "email": "mail@juliankrauskopf.com"
+  },
+  "name": "Midnight Pro",
+  "editor": {
+    "toolbarBackgroundColor": "#0A0E14",
+    "tintColor": "#6C7FFF",
+    "timeBlockColor": "#6C7FFF",
+    "menuItemColor": "#E6E9F0",
+    "toolbarIconColor": "#E6E9F0",
+    "tintColor2": "#00D9FF",
+    "altBackgroundColor": "#0F131A",
+    "shouldOverwriteFont": false,
+    "backgroundColor": "#0D1117",
+    "textColor": "#E6E9F0"
+  },
+  "style": "Dark",
+  "styles": {
+    "body": {
+      "font": "AvenirNext-Regular",
+      "size": 16,
+      "color": "#E6E9F0"
+    },
+    "title1": {
+      "color": "#FFFFFF",
+      "size": 32,
+      "font": "AvenirNext-Bold"
+    },
+    "title2": {
+      "color": "#F0F3FF",
+      "size": 26,
+      "font": "AvenirNext-Bold"
+    },
+    "title3": {
+      "color": "#E6E9F0",
+      "size": 22,
+      "font": "AvenirNext-DemiBold"
+    },
+    "title4": {
+      "color": "#D1D5E0",
+      "size": 18,
+      "font": "AvenirNext-DemiBold"
+    },
+    "title-mark1": {
+      "color": "#6C7FFF",
+      "size": 32,
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "title-mark2": {
+      "color": "#6C7FFF",
+      "size": 26,
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "title-mark3": {
+      "color": "#6C7FFF",
+      "size": 22,
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "title-mark4": {
+      "color": "#6C7FFF",
+      "size": 18,
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "working-on": {
+      "color": "#0D1117",
+      "backgroundColor": "#00D9FF",
+      "borderRadius": 6
+    },
+    "flagged-1": {
+      "color": "#0D1117",
+      "backgroundColor": "#FFD60A",
+      "borderRadius": 6
+    },
+    "flagged-2": {
+      "color": "#0D1117",
+      "backgroundColor": "#FF9F0A",
+      "borderRadius": 6
+    },
+    "flagged-3": {
+      "color": "#FFFFFF",
+      "backgroundColor": "#FF453A",
+      "borderRadius": 6
+    },
+    "code": {
+      "size": 15,
+      "backgroundColor": "#161B22",
+      "font": "Menlo-Regular",
+      "color": "#79C0FF",
+      "borderRadius": 4
+    },
+    "code-left-backtick": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "code-right-backtick": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "tabbed": {
+      "headIndent": 43
+    },
+    "hashtag": {
+      "backgroundColor": "#336C7FFF",
+      "color": "#A8B5FF",
+      "borderRadius": 3
+    },
+    "attag": {
+      "backgroundColor": "#3300D9FF",
+      "color": "#7DFFFF",
+      "borderRadius": 3
+    },
+    "underline": {
+      "underlineStyle": 2,
+      "underlineColor": "#00D9FF"
+    },
+    "underline-left-tilde": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "underline-right-tilde": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "italic": {
+      "type": "italic",
+      "color": "#FF6B9D",
+      "font": "AvenirNext-Italic"
+    },
+    "italic-left-mark": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "italic-right-mark": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "bold": {
+      "type": "bold",
+      "font": "AvenirNext-Bold",
+      "color": "#FFFFFF"
+    },
+    "bold-left-mark": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "bold-right-mark": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "boldItalic": {
+      "type": "bolditalic",
+      "color": "#B8C5FF",
+      "font": "AvenirNext-BoldItalic"
+    },
+    "boldItalic-left-mark": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "boldItalic-right-mark": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "strikethrough": {
+      "color": "#6E7681",
+      "strikethroughColor": "#8B949E",
+      "strikethroughStyle": 1
+    },
+    "strikethrough-left-tilde": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "strikethrough-right-tilde": {
+      "color": "#6C7FFF",
+      "isMarkdownCharacter": true,
+      "isHiddenWithoutCursor": true,
+      "isRevealOnCursorRange": true
+    },
+    "checked": {
+      "color": "#6E7681",
+      "headIndent": 33
+    },
+    "checked-canceled": {
+      "regex": "(^\\h*[\\*\\-\\+]{1} |^\\h*[0-9]+[\\.\\)] )(\\[\\-\\] )(.*)",
+      "matchPosition": 0,
+      "color": "#FF6B6B",
+      "headIndent": 33,
+      "strikethroughStyle": 1
+    },
+    "checked-scheduled": {
+      "regex": "(^\\h*[\\*\\-\\+]{1} |^\\h*[0-9]+[\\.\\)] )(\\[\\>\\] )(.*)",
+      "matchPosition": 0,
+      "color": "#BB86FC",
+      "headIndent": 33
+    },
+    "todo": {
+      "color": "#6C7FFF",
+      "headIndent": 33,
+      "size": 16
+    },
+    "checked-todo-characters": {
+      "headIndent": 33,
+      "size": 16
+    },
+    "quote-mark": {
+      "color": "#8B949E",
+      "headIndent": 33,
+      "size": 16
+    },
+    "quote-content": {
+      "color": "#8B949E",
+      "type": "italic",
+      "font": "AvenirNext-Italic",
+      "headIndent": 33
+    },
+    "question-line": {
+      "regex": "^(\\h*\\?)(.*)$",
+      "matchPosition": 1,
+      "color": "#FFD60A",
+      "font": "AvenirNext-DemiBold"
+    },
+    "question-text": {
+      "regex": "^(\\h*\\?)(.*)$",
+      "matchPosition": 2,
+      "color": "#FFEAA7",
+      "font": "AvenirNext-Regular"
+    },
+    "important-line": {
+      "regex": "^(\\h*!)(.*)$",
+      "matchPosition": 1,
+      "color": "#FF453A",
+      "font": "AvenirNext-DemiBold"
+    },
+    "important-text": {
+      "regex": "^(\\h*!)(.*)$",
+      "matchPosition": 2,
+      "color": "#FF6B6B",
+      "font": "AvenirNext-Regular"
+    },
+    "discussed-symbol": {
+      "regex": "^\\h*//",
+      "matchPosition": 0,
+      "color": "#BB86FC",
+      "font": "AvenirNext-DemiBold"
+    },
+    "discussed-text": {
+      "regex": "^\\h*//(.*)$",
+      "matchPosition": 1,
+      "color": "#D4B3FF",
+      "font": "AvenirNext-Regular"
+    },
+    "insight-symbol": {
+      "regex": "^(\\h*--)(.*)$",
+      "matchPosition": 1,
+      "color": "#00D9FF",
+      "font": "AvenirNext-DemiBold"
+    },
+    "insight-text": {
+      "regex": "^(\\h*--)(.*)$",
+      "matchPosition": 2,
+      "color": "#7DFFFF",
+      "font": "AvenirNext-Regular"
+    },
+    "highlighted": {
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "backgroundColor": "#A8B5FF",
+      "leftBorderPadding": 6
+    },
+    "highlighted-left-marker": {
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-right-marker": {
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-0": {
+      "backgroundColor": "#FF453A",
+      "matchPosition": 2,
+      "color": "#FFFFFF",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=0=)(.*?)(=0=)"
+    },
+    "highlighted-0-left-marker": {
+      "regex": "(=0=)(.*?)(=0=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-0-right-marker": {
+      "regex": "(=0=)(.*?)(=0=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-1": {
+      "backgroundColor": "#BB86FC",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=1=)(.*?)(=1=)"
+    },
+    "highlighted-1-left-marker": {
+      "regex": "(=1=)(.*?)(=1=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-1-right-marker": {
+      "regex": "(=1=)(.*?)(=1=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-2": {
+      "backgroundColor": "#00D9FF",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=2=)(.*?)(=2=)"
+    },
+    "highlighted-2-left-marker": {
+      "regex": "(=2=)(.*?)(=2=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-2-right-marker": {
+      "regex": "(=2=)(.*?)(=2=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-3": {
+      "backgroundColor": "#FFD60A",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=3=)(.*?)(=3=)"
+    },
+    "highlighted-3-left-marker": {
+      "regex": "(=3=)(.*?)(=3=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-3-right-marker": {
+      "regex": "(=3=)(.*?)(=3=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-4": {
+      "backgroundColor": "#32D74B",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=4=)(.*?)(=4=)"
+    },
+    "highlighted-4-left-marker": {
+      "regex": "(=4=)(.*?)(=4=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-4-right-marker": {
+      "regex": "(=4=)(.*?)(=4=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-5": {
+      "backgroundColor": "#FF9F0A",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=5=)(.*?)(=5=)"
+    },
+    "highlighted-5-left-marker": {
+      "regex": "(=5=)(.*?)(=5=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-5-right-marker": {
+      "regex": "(=5=)(.*?)(=5=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-6": {
+      "backgroundColor": "#A8B5FF",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=6=)(.*?)(=6=)"
+    },
+    "highlighted-6-left-marker": {
+      "regex": "(=6=)(.*?)(=6=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-6-right-marker": {
+      "regex": "(=6=)(.*?)(=6=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-7": {
+      "backgroundColor": "#FF375F",
+      "matchPosition": 2,
+      "color": "#FFFFFF",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=7=)(.*?)(=7=)"
+    },
+    "highlighted-7-left-marker": {
+      "regex": "(=7=)(.*?)(=7=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-7-right-marker": {
+      "regex": "(=7=)(.*?)(=7=)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-purple": {
+      "backgroundColor": "#BB86FC",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=p=)(.*?)(==)"
+    },
+    "highlighted-purple-left-marker": {
+      "regex": "(=p=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-purple-right-marker": {
+      "regex": "(=p=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-cyan": {
+      "backgroundColor": "#00D9FF",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=c=)(.*?)(==)"
+    },
+    "highlighted-cyan-left-marker": {
+      "regex": "(=c=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-cyan-right-marker": {
+      "regex": "(=c=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-yellow": {
+      "backgroundColor": "#FFD60A",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=y=)(.*?)(==)"
+    },
+    "highlighted-yellow-left-marker": {
+      "regex": "(=y=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-yellow-right-marker": {
+      "regex": "(=y=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-green": {
+      "backgroundColor": "#32D74B",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=g=)(.*?)(==)"
+    },
+    "highlighted-green-left-marker": {
+      "regex": "(=g=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-green-right-marker": {
+      "regex": "(=g=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-red": {
+      "backgroundColor": "#FF453A",
+      "matchPosition": 2,
+      "color": "#FFFFFF",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=r=)(.*?)(==)"
+    },
+    "highlighted-red-left-marker": {
+      "regex": "(=r=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-red-right-marker": {
+      "regex": "(=r=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-orange": {
+      "backgroundColor": "#FF9F0A",
+      "matchPosition": 2,
+      "color": "#0D1117",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=o=)(.*?)(==)"
+    },
+    "highlighted-orange-left-marker": {
+      "regex": "(=o=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-orange-right-marker": {
+      "regex": "(=o=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "highlighted-pink": {
+      "backgroundColor": "#FF375F",
+      "matchPosition": 2,
+      "color": "#FFFFFF",
+      "borderRadius": 6,
+      "isFullWidthBorder": false,
+      "isRevealOnCursorRange": true,
+      "inlineBorder": true,
+      "rightBorderPadding": 6,
+      "leftBorderPadding": 6,
+      "regex": "(=pk=)(.*?)(==)"
+    },
+    "highlighted-pink-left-marker": {
+      "regex": "(=pk=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "highlighted-pink-right-marker": {
+      "regex": "(=pk=)(.*?)(==)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-0": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:0:)(.*?)(:0:)",
+      "color": "#FF453A"
+    },
+    "text-0-left": {
+      "regex": "(:0:)(.*?)(:0:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-0-right": {
+      "regex": "(:0:)(.*?)(:0:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-1": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:1:)(.*?)(:1:)",
+      "color": "#BB86FC"
+    },
+    "text-1-left": {
+      "regex": "(:1:)(.*?)(:1:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-1-right": {
+      "regex": "(:1:)(.*?)(:1:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-2": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:2:)(.*?)(:2:)",
+      "color": "#00D9FF"
+    },
+    "text-2-left": {
+      "regex": "(:2:)(.*?)(:2:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-2-right": {
+      "regex": "(:2:)(.*?)(:2:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-3": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:3:)(.*?)(:3:)",
+      "color": "#FFD60A"
+    },
+    "text-3-left": {
+      "regex": "(:3:)(.*?)(:3:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-3-right": {
+      "regex": "(:3:)(.*?)(:3:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-4": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:4:)(.*?)(:4:)",
+      "color": "#32D74B"
+    },
+    "text-4-left": {
+      "regex": "(:4:)(.*?)(:4:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-4-right": {
+      "regex": "(:4:)(.*?)(:4:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-5": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:5:)(.*?)(:5:)",
+      "color": "#FF9F0A"
+    },
+    "text-5-left": {
+      "regex": "(:5:)(.*?)(:5:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-5-right": {
+      "regex": "(:5:)(.*?)(:5:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-6": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:6:)(.*?)(:6:)",
+      "color": "#A8B5FF"
+    },
+    "text-6-left": {
+      "regex": "(:6:)(.*?)(:6:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-6-right": {
+      "regex": "(:6:)(.*?)(:6:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-7": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:7:)(.*?)(:7:)",
+      "color": "#FF375F"
+    },
+    "text-7-left": {
+      "regex": "(:7:)(.*?)(:7:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-7-right": {
+      "regex": "(:7:)(.*?)(:7:)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-purple": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:p:)(.*?)(::)",
+      "color": "#BB86FC"
+    },
+    "text-purple-left": {
+      "regex": "(:p:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-purple-right": {
+      "regex": "(:p:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-cyan": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:c:)(.*?)(::)",
+      "color": "#00D9FF"
+    },
+    "text-cyan-left": {
+      "regex": "(:c:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-cyan-right": {
+      "regex": "(:c:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-yellow": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:y:)(.*?)(::)",
+      "color": "#FFD60A"
+    },
+    "text-yellow-left": {
+      "regex": "(:y:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-yellow-right": {
+      "regex": "(:y:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-green": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:g:)(.*?)(::)",
+      "color": "#32D74B"
+    },
+    "text-green-left": {
+      "regex": "(:g:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-green-right": {
+      "regex": "(:g:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-red": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:r:)(.*?)(::)",
+      "color": "#FF453A"
+    },
+    "text-red-left": {
+      "regex": "(:r:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-red-right": {
+      "regex": "(:r:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    },
+    "text-orange": {
+      "isRevealOnCursorRange": true,
+      "matchPosition": 2,
+      "regex": "(:o:)(.*?)(::)",
+      "color": "#FF9F0A"
+    },
+    "text-orange-left": {
+      "regex": "(:o:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 1,
+      "color": "#6C7FFF"
+    },
+    "text-orange-right": {
+      "regex": "(:o:)(.*?)(::)",
+      "isRevealOnCursorRange": true,
+      "isHiddenWithoutCursor": true,
+      "isMarkdownCharacter": true,
+      "matchPosition": 3,
+      "color": "#6C7FFF"
+    }
+  }
+}
