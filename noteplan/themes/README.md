@@ -5,15 +5,15 @@ A collection of custom-crafted themes for NotePlan to enhance focus and readabil
 ## 📸 Previews
 
 ### Aurora Night
-![Aurora Night](noteplan/assets/screenshots/Aurora_Night_Preview.png)
+![Aurora Night](https://github.com/jukrauskopf/JUMCO-Files/blob/main/noteplan/assets/screenshots/Aurora_Night_Preview.png)
 *A deep, vibrant dark mode. High contrast.*
 
 ### Midnight Pro
-![Midnight Pro](noteplan/assets/screenshots/Midnight_Pro_Preview.png)
+![Midnight Pro](https://github.com/jukrauskopf/JUMCO-Files/blob/main/noteplan/assets/screenshots/Midnight_Pro_Preview.png)
 *A variant of the dark mode, darker background, higher contrasts.*
 
 ### Daylight Pro
-![Daylight Pro](noteplan/assets/screenshots/Daylight_Pro_Preview.png)
+![Daylight Pro](https://github.com/jukrauskopf/JUMCO-Files/blob/main/noteplan/assets/screenshots/Daylight_Pro_Preview.png)
 *A crisp, clean light mode. Easy on the eyes with a professional touch.*
 
 ---
