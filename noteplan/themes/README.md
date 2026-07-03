@@ -16,6 +16,9 @@ A collection of custom-crafted themes for NotePlan to enhance focus and readabil
 ![Daylight Pro](https://github.com/jukrauskopf/JUMCO-Files/blob/main/noteplan/assets/screenshots/Daylight_Pro_Preview.png)
 *A crisp, clean light mode. Easy on the eyes with a professional touch.*
 
+### Amethyst Pro
+*A light mode with an Obsidian-inspired violet identity — soft lavender surfaces, deep plum text, and a violet/fuchsia accent duo instead of the usual blue/gray light theme look.*
+
 ---
 
 ## 🚀 How to Install
