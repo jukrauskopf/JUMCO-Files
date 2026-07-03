@@ -116,12 +116,12 @@
     "hashtag": {
       "backgroundColor": "#33FF5A1F",
       "color": "#FFB27A",
-      "borderRadius": 3
+      "borderRadius": 6
     },
     "attag": {
       "backgroundColor": "#3322D3EE",
       "color": "#A6EFFB",
-      "borderRadius": 3
+      "borderRadius": 6
     },
     "underline": {
       "underlineStyle": 2,
