@@ -12,12 +12,12 @@ A collection of custom-crafted themes for NotePlan to enhance focus and readabil
 ![Midnight Pro](https://github.com/jukrauskopf/JUMCO-Files/blob/main/noteplan/assets/screenshots/Midnight_Pro_Preview.png)
 *A variant of the dark mode, darker background, higher contrasts.*
 
+### Cosmic Orange
+*A techy dark mode with a punchy, iPhone-17-Pro-inspired orange identity — near-black carbon surfaces, a vivid orange/cyan accent duo, and hazard-tape-style dark-on-orange highlights.*
+
 ### Daylight Pro
 ![Daylight Pro](https://github.com/jukrauskopf/JUMCO-Files/blob/main/noteplan/assets/screenshots/Daylight_Pro_Preview.png)
 *A crisp, clean light mode. Easy on the eyes with a professional touch.*
-
-### Amethyst Pro
-*A light mode with an Obsidian-inspired violet identity — soft lavender surfaces, deep plum text, and a violet/fuchsia accent duo instead of the usual blue/gray light theme look.*
 
 ---
 
